@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+
+# Local report drafts & documents
+*.docx
+*.pdf
+~$*
+figures/
+*.log
+
+# Helper generation & inspection scripts
+build_*.py
+calibrate_*.py
+capture_*.py
+cell_*.py
+generate_*.py
+inspect_*.py
+make_*.py
+run_light_gradio.py
+verify_*.py
+final_*.py
+final_*.ipynb
